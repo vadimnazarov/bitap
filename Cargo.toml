@@ -3,7 +3,16 @@ name = "bitap"
 version = "0.1.0"
 authors = ["Vadim Nazarov <vdm.nazarov@gmail.com>"]
 
-[dependencies]
+description = "Bitap algorithm for Rust"
 
+documentation = "https://github.com/vadimnazarov/bitap"
+homepage = "https://github.com/vadimnazarov/bitap"
+repository = "https://github.com/vadimnazarov/bitap"
+
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+
+
+[dependencies]
 docopt = "0.6"
 rustc-serialize = "0.3"
